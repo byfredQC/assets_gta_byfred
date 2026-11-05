@@ -10,4 +10,4 @@ Désactive l’ancien addon GTA Photo Props avant d’installer et activer asset
 
 Version 0.4.3 — testée avec Blender 5.2.3. Sollumz avec support natif GTA et une installation locale compatible de GTA V sont nécessaires. CodeWalker est requis uniquement pour son aperçu externe.
 
-Les modèles et fichiers du jeu ne sont pas inclus ; ils sont lus dans GTA à chaque ajout.
+
